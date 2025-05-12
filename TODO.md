@@ -4,4 +4,4 @@ Get 20 images for Tennis Ball(Done)
 Get 20 images for Golf Ball(Done)
 Get 20 images for Credit Card
 Get 20 images for Plate(Done)
-Get 20 images for Bottle Cap
+<!-- Get 20 images for Bottle Cap -->

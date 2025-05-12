@@ -6,4 +6,4 @@ The grasps:
     Tripod/Inferior Pincer/Quadpod: Golf Ball
     Lateral: Credit Card
     Extension Type/Palmar: Plate
-    Lateral Tripod: Bottle Cap
+    <!-- Lateral Tripod: Bottle Cap -->
