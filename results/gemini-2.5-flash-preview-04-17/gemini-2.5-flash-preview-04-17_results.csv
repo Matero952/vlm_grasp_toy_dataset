@@ -1,0 +1,657 @@
+img_path,target_grasp,pred_grasp,text
+data/tennis/tennis23.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for a tennis ball (a spherical object of this size) is typically a **Spherical Power Grasp**.
+
+This is a type of power grasp where the fingers and palm wrap around the object, providing stability and control, which is suitable for holding, throwing, or carrying a tennis ball."
+data/tennis/tennis16.jpeg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy, the most appropriate and common grasp for an object like a tennis ball, which is spherical and of moderate size, is typically the **Spherical Grasp**.
+
+This falls under the category of **Power Grasps**, specifically the **Power Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** A tennis ball is a spherical object.
+2.  **Grasp Mechanism:** The Spherical Grasp involves the fingers and thumb wrapping around the curved surface of the object, often with the palm also in contact, to enclose it securely.
+3.  **Function:** This grasp provides stability and allows for the application of force (power), which is necessary for actions like holding, throwing, or bouncing a tennis ball.
+
+While a precise grip might be used initially to pick up the ball or for delicate positioning, the most functional and secure grasp for general handling and use (like throwing or holding) is the Power Spherical Grasp."
+data/tennis/tennis17.jpeg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy from the paper ""The GRASP taxonomy of human grasp types,"" the most appropriate grasp for a tennis ball (a spherical object) is the **Spherical Grasp**.
+
+Here's why according to the taxonomy:
+
+1.  **Object Shape:** The object is a sphere.
+2.  **Hand Configuration:** In a Spherical Grasp, the fingers and thumb wrap around the curved surface of the object, holding it against the palm. This configuration conforms well to a sphere.
+3.  **Purpose (Common):** This grasp is typically used for holding or manipulating spherical objects where stability and power are needed (e.g., holding the ball, preparing to throw it).
+
+Feix's taxonomy often categorizes the Spherical Grasp under the broader category of **Power Grasps**, as it involves holding the object against the palm for stability and the potential to apply force.
+
+Therefore, the best grasp for a tennis ball according to Feix's taxonomy is the **Spherical Grasp**."
+data/tennis/tennis19.jpeg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy, the best grasp for an object like a tennis ball, which is a spherical object of moderate size, is typically the **Spherical Power Grasp**.
+
+This is a type of Power Grasp where the fingers and thumb wrap around the object to stabilize it against the palm or the opposing fingers/thumb, providing a secure hold suitable for picking up and manipulating the ball."
+data/tennis/tennis15.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy, the best grasp for a tennis ball, which is a spherical object intended for tasks involving holding it firmly or applying force (like throwing), is the **Spherical Power Grasp**.
+
+This grasp involves wrapping the palm and fingers around the sphere to maximize contact area and allow for significant force transmission."
+data/tennis/tennis18.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for a spherical object like a tennis ball is typically the **Spherical Grasp**.
+
+This is a type of **Power Grasp** where the fingers are flexed around the object, and the palm often contributes to the hold, providing a secure grip for stability and potential force application (like throwing). It is specifically designed for holding spherical objects of various sizes.
+
+While precision grips like a 3-finger Chuck Grasp could be used for manipulating the ball, the most stable and common grasp for simply holding or picking up a tennis ball is the Spherical Grasp."
+data/tennis/tennis12.jpeg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",power sphere,"Based on Feix's GRASP taxonomy, the most appropriate grasp for a tennis ball is the **Sphere Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** A tennis ball is a spherical object.
+2.  **Grasp Type Description:** Feix's Sphere Grasp is specifically defined for grasping spherical objects. It involves the fingers and thumb wrapping around the curvature of the object, with the palm often making contact (in the case of the Power Sphere Grasp, which is a common way to hold a tennis ball securely).
+
+While the specific ""best"" grasp can depend on the *task* (e.g., a more precise grip for serving vs. a power grip for throwing), the general classification within Feix's taxonomy for holding an object of this size and shape is the **Sphere Grasp**. This type falls under the broader category of Power Grasps in Feix's classification."
+data/tennis/tennis21.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy, the best grasp for picking up the tennis ball shown in the image would be a **Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object is a sphere (a tennis ball).
+2.  **Grasp Type:** A Spherical Grasp is specifically designed for holding spherical or round objects where the fingers and palm conform to the object's shape to provide stability and control.
+3.  **Context:** The typical action involving a ball on the ground is picking it up, which is most naturally and securely done with a grasp that encompasses a significant portion of the ball's surface.
+
+The Spherical Grasp falls under the category of **Power Grasps** in the Feix taxonomy, as it utilizes the palm and fingers to apply force and secure the object."
+data/tennis/tennis20.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for a tennis ball, which is a spherical object of medium size, is the **Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object is clearly spherical.
+2.  **Feix's Definition:** The Spherical Grasp in Feix's taxonomy is specifically defined for grasping spherical objects, involving the fingers and thumb wrapping around the object, conforming to its shape, often with the palm in contact.
+3.  **Typical Usage:** When a human grasps a tennis ball for purposes like picking it up, holding it, or throwing it, they naturally employ a spherical grasp to securely enclose the object.
+
+This grasp falls under the category of **Power Grasps** in Feix's taxonomy, as it's used for holding the object securely and often for manipulating it with force (e.g., throwing)."
+data/tennis/tennis3.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for a spherical object like a tennis ball, which is typically held with the entire hand for control and manipulation (throwing, catching, hitting), is the **Spherical Grasp**.
+
+This grasp is a type of power grip where the fingers and thumb conform around the spherical shape of the object."
+data/tennis/tennis10.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for a tennis ball is the **Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** A tennis ball is a spherical object.
+2.  **Typical Use:** It is typically held firmly in the hand for throwing (like serving) or catching.
+3.  **Grasp Definition:** A Spherical Grasp (a subtype of Power Grasp) involves the fingers and thumb opposing the palm to secure a spherical or near-spherical object, providing stability and control. This fits how a tennis ball is commonly held.
+
+Therefore, the primary category is a **Power Grasp**, and the specific subtype is a **Spherical Grasp**."
+data/tennis/tennis9.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for a tennis ball, given its size and spherical shape, is typically the **Spherical Grasp**.
+
+This is classified as a **Power Grasp**, where the fingers and palm wrap around the object to apply force and hold it securely, opposing the thumb. It's the natural way to hold a ball of this size for tasks like picking it up, holding it before serving, or preparing to throw it."
+data/tennis/tennis22.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy, the best grasp for picking up and holding a tennis ball, which is a spherical object of moderate size, is the **Spherical Power Grasp**.
+
+Here's why:
+
+1.  **Power vs. Precision:** A tennis ball is typically handled using a power grip, where the object is secured firmly within the palm, rather than a precision grip which is used for fine manipulation of smaller objects.
+2.  **Object Shape:** The object is spherical.
+3.  **Spherical Grasp:** This specific category within Power grips is defined for grasping spherical objects using the palm and fingers wrapping around the curvature, with the thumb opposing the fingers.
+
+Therefore, the **Spherical Power Grasp** is the most appropriate classification according to the Feix taxonomy for handling a tennis ball in this context."
+data/tennis/tennis11.jpeg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",palmar pinch,"Based on Feix's GRASP taxonomy, the ""best"" grasp depends on the intended task, but for securely holding and manipulating a spherical object like a tennis ball, the most appropriate grasp type is typically the **Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object is spherical.
+2.  **Feix's Taxonomy Categories:** The taxonomy categorizes grasps primarily by function (Power vs. Precision).
+    *   **Power Grasps:** Used for stability and transmitting force.
+    *   **Precision Grasps:** Used for fine manipulation and control.
+3.  **Relevant Grasps for a Sphere:**
+    *   The **Spherical Grasp** is a specific type of **Power Grasp** explicitly defined for gripping spherical objects. It involves wrapping the fingers and thumb around the object, often with significant contact with the palm, providing a secure hold for tasks like throwing or hitting.
+    *   **Precision Grasps** like various **Pinches** (e.g., Palmar Pinch/Opposition) could be used to pick the ball up or hold it lightly between the thumb and finger pads.
+
+Given the common tasks involving a tennis ball (throwing, holding securely, hitting with a racket requires securely holding the racket but involves interacting with the ball during play), the **Spherical Grasp** is the most natural and effective grasp for providing the necessary power and stability.
+
+While Precision Grasps might be used for initial pickup or light handling, the **Spherical Grasp** is the primary, robust grasp type designed for this object based on its shape and typical manipulation needs, aligning well with the Power Grasp category in Feix's taxonomy."
+data/tennis/tennis7.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy and considering the object is a tennis ball (a spherical object typically held and manipulated with the whole hand), the most appropriate grasp type is the **Spherical Grasp**.
+
+This is a type of **Power Grasp** where the fingers and thumb wrap around the rounded object to secure it, allowing for control and the application of force (such as holding, throwing, or catching)."
+data/tennis/tennis6.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for a tennis ball, which is a spherical object typically held for activities like throwing, catching, or carrying, is the **Spherical Grasp**.
+
+This falls under the category of **Power Grasps**, as it involves the fingers wrapping around the object and the thumb providing opposition to create a secure, stable hold."
+data/tennis/tennis8.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",power sphere,"Based on Feix's grasp taxonomy, the best grasp for a tennis ball is a **Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object (tennis ball) is spherical. Feix's taxonomy includes specific categories for grasping spherical objects.
+2.  **Common Usage:** A tennis ball is typically held by wrapping the fingers around its spherical shape.
+
+Within the Spherical Grasp category, you might use:
+
+*   **Power Sphere:** For securely holding or carrying the ball (enclosing it with the palm and all fingers).
+*   **Spherical Precision:** For manipulating the ball, such as tossing it up for a serve (using fingertips and thumb for control).
+
+However, the overarching category that best describes how a human hand interacts with a tennis ball based on its shape and common actions is **Spherical Grasp**."
+data/tennis/tennis4.jpeg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the most suitable and common grasp for picking up and holding a tennis ball is the **Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object is a sphere (a ball).
+2.  **Grasp Purpose (typical):** While ""best"" depends on the task, the fundamental task for a ball is often holding, throwing, or picking up. For these tasks, a secure, encompassing grasp is needed.
+3.  **Spherical Grasp Definition:** Feix's taxonomy defines the Spherical Grasp as a type of power grasp where the fingers and thumb oppose each other, wrapping around a spherical object. The hand conforms to the object's shape to provide a stable hold, often involving the palm.
+
+This grasp provides maximum contact area and stability, making it ideal for securely holding a tennis ball for various actions like carrying, preparing to serve, or throwing."
+data/tennis/tennis1.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for an object like a tennis ball, which is a medium-sized spherical object typically picked up and held firmly, is likely the **Spherical Grasp**.
+
+*   **Grasp Category:** Power Grasp
+*   **Specific Grasp Type:** Spherical Grasp
+
+**Reasoning:** The Spherical Grasp involves the fingers and often the palm wrapping around a spherical object to provide a secure hold, which is a common and effective way to pick up and handle a tennis ball."
+data/tennis/tennis14.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's grasp taxonomy, the best grasp for picking up or holding a tennis ball (a small spherical object) is typically a **Sphere Grasp**.
+
+Specifically, it would likely fall under the **Intermediate Grasp** family, often described as a **Small Sphere Grasp** if the taxonomy differentiates based on size. This grasp involves the fingers and thumb opposing each other and partially enclosing the object, with the object resting within the curve of the palm and fingers. It provides a secure hold for a spherical object of this size."
+data/tennis/tennis2.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy, the best grasp for the object (a tennis ball) shown in the image is the **Spherical Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** A tennis ball is a spherical object.
+2.  **Taxonomy Definition:** The Spherical Grasp is defined in Feix's taxonomy as a power grasp where the hand conforms to a spherical object, with the fingers spread and wrapping around the object.
+3.  **Typical Interaction:** The most common and stable way to hold a tennis ball is by wrapping the fingers around its curve with the palm enclosing it, which matches the description of a Spherical Grasp.
+
+The Spherical Grasp (G1.2.2 in the Feix et al. 2016 paper's coding) is a type of Power Grasp (G1)."
+data/tennis/tennis13.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",,"Based on Feix's GRASP taxonomy and considering the object is a tennis ball, the best grasp is the **Spherical Grasp**.
+
+This is classified as a Power Grasp, where the fingers and palm conform to the spherical shape of the object, providing a stable and powerful hold suitable for actions like throwing, catching, or hitting."
+data/tennis/tennis5.jpg,"['power sphere', 'precision sphere', 'sphere 3 finger', 'sphere 4 finger']",power sphere,"Based on Feix's grasp taxonomy from ""The GRASP taxonomy of human grasp types,"" the object shown (a tennis ball) is best suited for a **Power Sphere Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object is spherical.
+2.  **Object Size:** It's small enough to be enclosed by the hand, but large enough that a significant part of the palm and multiple fingers are involved in the grasp.
+3.  **Grasp Category:** The typical way to hold a tennis ball involves wrapping the fingers and thumb around the object, bringing it towards the palm. This type of grasp is classified under **Power Grasps** in the Feix taxonomy because it provides stability and allows for the application of force (like throwing).
+4.  **Specific Type:** Within the Power Grasps, the subtype specifically designed for holding spherical objects is the **Power Sphere Grasp**. This grasp involves the fingers and thumb opposing each other, conforming to the spherical shape, with the palm making contact or being very close to the object, providing maximum contact area for stability.
+
+Therefore, the most appropriate grasp for a tennis ball according to the Feix taxonomy is the **Power Sphere Grasp**."
+data/cd/cd2.jpg,"['power disk', 'precision disk']",tripod,"Based on Feix's 2009 grasp taxonomy:
+
+The object is a thin, flat, light disc. Handling it typically involves careful manipulation to avoid damage or smudging the data surface. This primary function indicates a **Precision Grasp**, as opposed to a Power Grasp used for stability or applying force.
+
+Among the specific precision grasps described by Feix:
+
+1.  **Tripod Grasp / Quadpod Grasp:** Used for manipulating small objects (like pens) with 3 or 4 fingers and the thumb. A CD is too large for these.
+2.  **Palm Pinch:** Pinching the object against the palm. Possible but not the most common or stable way to hold a CD.
+3.  **Tip Pinch:** Object pinched between the fingertips of the thumb and one or more fingers. This describes a common way to pick up or hold a CD by its edge (thumb on top, fingers underneath).
+
+While the most common and recommended way to handle a CD is often by placing fingers through the central hole and supporting it with the thumb on top, this specific action doesn't neatly fit into one of the standard named grasps in Feix's primary list (like Tip Pinch, Tripod, etc.). However, this method is also clearly a **Precision Grasp** due to the need for careful control.
+
+Considering the standard named grasps available in the taxonomy and a common method of handling the CD precisely by its edge, the **Tip Pinch** is the most applicable specific grasp name from Feix's classification.
+
+Therefore, the best grasp category is Precision Grasp, and a specific named grasp applicable to handling a CD (by its edge) is the **Tip Pinch**.
+
+The final answer is $\boxed{Tip Pinch}$."
+data/cd/cd17.jpg,"['power disk', 'precision disk']",,"Based on Feix's GRASP taxonomy, the object shown (a DVD-RAM disc) is a flat, thin, circular object that needs to be handled carefully, primarily to avoid touching the recording surface and damaging it. The most appropriate category of grasp for this object is a **Precision Grasp**.
+
+Within Precision Grasps, which are characterized by holding the object away from the palm using the tips or pads of the fingers and thumb for manipulation and control, the common and best grasp for a DVD would be:
+
+1.  **A Grasp Utilizing the Central Aperture:** This is arguably the safest and most common method when inserting or removing the disc. It involves inserting one finger (typically the index or middle finger) through the central hole of the disc and using the thumb (and potentially other fingers) on the outer edge or bottom surface of the disc to support and control it. This keeps fingers entirely off the sensitive data surface.
+
+While another method is holding the disc around the edge with the thumb and opposing fingers (a form of **Disk Grasp**, which is a type of precision grasp), the method using the central hole minimizes the risk of touching the data area.
+
+Therefore, the best grasp based on functionality and avoiding damage, fitting within Feix's Precision Grasp category, is the one **utilizing the central aperture with opposing thumb support on the edge/surface**. This is a specialized form of Precision Grasp for handling flat, circular objects with a hole."
+data/cd/cd18.jpg,"['power disk', 'precision disk']",,"Based on Feix's grasp taxonomy (The GRASP taxonomy of human grasp types), the best grasp for a flat, circular object like a CD/DVD is the **Disc Grasp**.
+
+This is a type of **Precision Grasp** used for handling thin, flat objects. It typically involves holding the object by its edges between the thumb and one or more fingers (often the index and middle fingers) to allow for manipulation and avoid touching the sensitive surface."
+data/cd/cd20.jpg,"['power disk', 'precision disk']",lateral,"Based on Feix's 2016 GRASP taxonomy and considering the typical ways humans handle a thin, flat, circular object like a CD for manipulation (e.g., inserting into a player, placing in a case), the most appropriate grasp falls under the **Precision Grasp** category.
+
+Specifically, two very common and suitable precision grasps for a CD are:
+
+1.  **Disk (Pad Opposition):** This involves using the pads of the thumb and one or more fingers to grasp the disk along its outer edge. This provides good control for picking up, placing, or inserting the CD.
+2.  **Lateral Pinch (Pad-to-Side):** This involves holding the CD between the pad of the thumb and the side of the index finger. This is a very common way to carry or hand over a CD.
+
+While both are excellent candidates and widely used, the **Disk (Pad Opposition)** grasp (Subtype 1.6 in Feix's taxonomy) is arguably the most representative ""manipulative"" grasp for tasks like inserting a CD into a drive, which requires control around the edge. The **Lateral Pinch** (Subtype 1.10) is equally valid and very common for simpler handling like carrying.
+
+Therefore, based on the object's properties and typical manipulation needs, the best grasp is most likely a **Precision Grasp**, specifically the **Disk (Pad Opposition)** or **Lateral Pinch** subtype. The ""Disk (Pad Opposition)"" is a strong candidate as it is specifically named for this type of object and grasp."
+data/cd/cd9.jpg,"['power disk', 'precision disk']",,"Based on Feix's grasp taxonomy, the best grasp for handling a disc like the one shown is typically a **Disc** grasp.
+
+Specifically, this falls under the **Precision Grasp / Pad Opposition** category. Common variations for a disc are:
+
+*   **Disc 3-finger:** Thumb opposing the index and middle fingers on the edge of the disc.
+*   **Disc 4-finger:** Thumb opposing the index, middle, and ring fingers on the edge of the disc.
+
+These grasps allow holding the disc by its edge, avoiding contact with the data surface. While a different grasp might be used (like putting a finger through the center hole and supporting the edge, which might relate to a variation of a Lumbrical or Plate grasp in some taxonomies), Feix's taxonomy explicitly includes ""Disc"" grasps tailored for this type of object held by the edge."
+data/cd/cd23.jpeg,"['power disk', 'precision disk']",,"Based on Feix's GRASP taxonomy, the object shown (a CD or DVD) is best suited for a grasp type designed for flat, thin objects.
+
+The most appropriate grasps from the Feix taxonomy are:
+
+1.  **G13 - Disc Grasp:** This grasp involves the thumb opposing the fingers which span the object's diameter or a chord. This is a very common way to hold a CD/DVD, with the thumb resting on the top surface near the center and fingers supporting the bottom surface towards the edge.
+2.  **G14 - Plate Grasp:** This grasp involves the thumb opposing the fingers around the edge of a flat object. This is also a common way to hold a CD/DVD, gripping it by its outer rim with the thumb on top and fingers underneath.
+
+Both the **Disc Grasp (G13)** and the **Plate Grasp (G14)** are suitable for this object, as they are specifically defined for handling flat, disc-like objects. The choice between the two might depend on the specific task (e.g., inserting into a drive vs. handing it to someone). However, they fall under the category of grasps for handling flat objects.
+
+Considering the stability provided by supporting the surface, the **Disc Grasp (G13)** which spans the object's surface is often considered a primary method for handling CDs/DVDs securely to prevent bending."
+data/cd/cd3.jpg,"['power disk', 'precision disk']",,"Based on Feix's GRASP taxonomy, the best grasp for a CD/DVD is a **Precision Grasp**.
+
+Here's why:
+
+1.  **Object Properties:** The CD is a thin, flat, light object with a sensitive surface (the data side) that should not be touched. Handling requires control and care, not force.
+2.  **Typical Handling:** CDs are typically held by the edges with the thumb and fingers, or by placing a finger through the central hole while supporting the other side. Both methods avoid touching the data surface.
+3.  **Feix Taxonomy Fit:**
+    *   **Power Grasp:** Not suitable, as the object is light and doesn't require force.
+    *   **Precision Grasp:** This category involves using the fingertips and thumb for fine manipulation and control. Holding the CD by the edge with opposing thumb and fingers (a form of pulp or pad opposition grasp applied to a thin edge) fits perfectly into the Precision Grasp definition. The alternative of putting a finger through the hole and supporting the other side also relies on fingertip/pad control, aligning with precision principles.
+
+The most common and stable way to hold a CD described within the general types of Feix's taxonomy is by the edges using finger and thumb pads for controlled manipulation, which falls under the **Precision Grasp** category."
+data/cd/cd22.jpeg,"['power disk', 'precision disk']",,"Based on the image showing a CD and considering typical human interaction with this object, the most common and arguably ""best"" grasp for stable handling and manipulation (like inserting into a drive) aligns best with a specific type of **Intermediate Grip** within Feix's GRASP taxonomy.
+
+Here's the breakdown:
+
+1.  **Object Analysis:** The object is a flat, thin, light disc with a central hole. Its primary uses involve transport, insertion, and removal. Applying significant force *with* or *to* the object is rare during typical handling. Stability and control to avoid scratching are key.
+
+2.  **Typical ""Best"" Grasp:** The most secure and functional way humans typically grasp a CD for handling is by putting the **thumb through the central hole** and supporting the disc's underside with the **fingers** (usually index and middle, or multiple fingers). This grip provides excellent stability, allows for precise positioning, and minimizes contact with the data surface.
+
+3.  **Mapping to Feix's Taxonomy:**
+    *   **Power Grips:** These involve full palm enclosure and force transmission (e.g., cylindrical, spherical). The CD grip doesn't fit this description as the palm is not enclosing the object for applying force.
+    *   **Precision Grips:** These involve using fingertips or pads for fine manipulation or pinching small objects. While the CD grip requires control, it involves a larger part of the hand supporting a larger, flat object, rather than manipulating a small feature with fingertips.
+    *   **Intermediate Grips:** This category includes grips for objects that don't fit neatly into power or precision, often involving flat objects, carrying, or specific tool handling. The CD grip fits well here. It's about stable handling and transport of a light, flat object.
+
+4.  **Specific Grip within Intermediate:** Within Feix's 33 grips, this specific configuration (thumb through hole, fingers supporting underside) is sometimes considered a variant or example falling under or related to:
+    *   **G19 - Flat Pinch:** This involves thumb opposing fingers on a flat surface. The CD grip is structurally similar, with the thumb on one ""side"" (through the hole) opposing fingers on the other ""side"" (the underside surface). However, the thumb's position *in the hole* is a defining feature not perfectly captured by a generic ""Flat Pinch"" description which might imply pinching the edge or flat surface without using a hole.
+    *   **G27 - Plate Grip:** This is described as holding a plate horizontally. While the object is different, the *purpose* (stable horizontal carrying of a flat object) is similar. However, the *mechanism* (thumb through hole vs. fingers curled under rim) is different.
+
+Given the commonality and stability of the thumb-through-the-hole grip for a CD, and its function focused on stable handling of a flat, light object rather than high force or intricate fingertip manipulation, it is best classified as a specific application or variation within the **Intermediate Grip** category. While not always listed as a standalone named grip like ""CD Grip"" in all versions of the taxonomy, its characteristics align most closely with this category, specifically resembling a functional blend of a Flat Pinch for a holed object designed for stable carrying like a Plate.
+
+Therefore, the best grasp for this object, according to the principles of Feix's taxonomy, is a variation of an **Intermediate Grip**, characterized by the thumb placed through the central hole opposing fingers supporting the underside."
+data/cd/cd4.jpg,"['power disk', 'precision disk']",,"Based on Feix's GRASP taxonomy, the object is a disk. The most suitable grasp type for holding and manipulating a disk-shaped object like a CD or DVD is the **Disk grasp**.
+
+This grasp is characterized by applying opposing forces to the flat surfaces of the disk, typically using the thumb on one side and one or more fingers on the other, or using the central hole for stabilization. It's primarily used for manipulation tasks like inserting the disk into a drive, labeling it, or simple transport."
+data/cd/cd10.jpg,"['power disk', 'precision disk']",precision disk,"Based on Feix's grasp taxonomy and considering the properties of a DVD (thin, flat, circular object requiring careful handling), several grasp types are relevant. The ""best"" grasp can depend on the specific task (e.g., picking up, inserting into a drive, placing in a case).
+
+However, considering a general, careful way to handle the object, the following are strong candidates:
+
+1.  **Precision Disk Grasp:** Holding the flat object with fingertips. This is a common way to handle a DVD carefully, either by the edges or by placing fingertips on the non-data side, often used when picking it up, examining it, or placing it into a case or drive slot without touching the sensitive data surface.
+2.  **Lateral Pinch:** Holding the object's edge between the thumb and the side of the index finger. This is a very common and functional grasp specifically used for inserting the DVD into a drive or slot.
+
+Given the ambiguity of ""best"" without a specific task, and the image showing the entire disk without a hand or context of use, both Precision Disk Grasp and Lateral Pinch are highly relevant. Precision Disk covers a more general careful handling using fingertips, while Lateral Pinch is specific to edge manipulation during insertion.
+
+The image itself highlights the surface and the edge, supporting both possibilities. However, if we consider a grasp for careful general handling, **Precision Disk Grasp** seems a strong fit as it describes holding the flat object with fingertips, which is crucial for avoiding damage and maintaining control. Lateral Pinch is perhaps more specific to the act of insertion.
+
+Therefore, based on the object's nature and typical careful handling, a strong candidate for a ""best"" grasp type is the **Precision Disk Grasp**.
+
+The final answer is $\boxed{Precision Disk Grasp}$."
+data/cd/cd5.jpg,"['power disk', 'precision disk']",,"Based on Feix's grasp taxonomy and the typical way humans handle a compact disc (CD), the best grasp would be a **Pad Pinch**.
+
+Here's why:
+
+1.  **Object Shape:** A CD is a flat, thin, disc-shaped object with a central hole.
+2.  **Typical Use:** CDs are handled for tasks like inserting into a drive, removing from a case, or placing into storage. These tasks require a degree of precision to avoid touching the data surface and correctly position the disc.
+3.  **Grasp Mechanics:** People typically hold a CD either by placing the thumb on the edge and fingers on the opposite edge (often using the pads of the digits) or by placing the thumb inside the center hole and fingers on the outer edge. Both of these involve holding the object between the pads of the thumb and one or more fingers.
+
+The **Pad Pinch** category in Feix's taxonomy specifically describes holding an object between the pads of the thumb and one or more fingers. This accurately reflects the common and stable methods used to manipulate a CD while minimizing contact with the reading surface."
+data/cd/cd19.jpg,"['power disk', 'precision disk']",,"Based on Feix's grasp taxonomy, the most suitable and common grasp for handling a flat, thin object like a DVD-R is the **Disk Grasp**.
+
+This is categorized under **Intermediate Grasps** in Feix's taxonomy. It involves the fingers spread across the surface of the disc, opposing the thumb, which is also typically on the surface or edge. This allows for stable support and manipulation of the flat object."
+data/cd/cd24.jpg,"['power disk', 'precision disk']",lateral,"Based on Feix's GRASP taxonomy, a common and effective way to grasp a CD for manipulation (such as inserting it into a player or case) while avoiding contact with the data surface is the **Lateral** grasp.
+
+In this grasp, the CD is held by its edge between the pad of the thumb and the side or pads of one or more fingers (typically the index and/or middle fingers). This allows for stable control and manipulation of the thin, flat disc.
+
+Another possible grasp, especially for carrying, could be the **Plate/Pad** grasp, where the flat object is supported by the palm and fingers from underneath and held down by the thumb on top. However, the **Lateral** grasp is often preferred for manipulation tasks as it minimizes touching the sensitive surfaces of the CD.
+
+Considering typical interaction with a CD, the **Lateral** grasp provides excellent control and protects the read surface, making it arguably the most appropriate ""best"" grasp for general handling and manipulation from the taxonomy."
+data/cd/cd16.jpg,"['power disk', 'precision disk']",,"Based on Feix's grasp taxonomy, the object shown (a CD or DVD) is typically handled with a **Precision Grasp**.
+
+Specifically, the most common and effective grasp for manipulating a thin, flat disc like this, often involving picking it up by the edge or aligning it for insertion, is a form of **Pad Opposition** or **Pinch**. This involves opposing the thumb pad against the pad of one or more fingers (typically the index finger) to grip the edge of the disc.
+
+Therefore, the best grasp type according to Feix's taxonomy for this object is **Pad Opposition (Pinch)**, falling under the **Precision Grip** category."
+data/cd/cd8.jpg,"['power disk', 'precision disk']",,"Based on Feix's grasp taxonomy (Feix et al., 2015), the object shown is a flat, circular disc with a central hole, likely an optical disc like a CD, DVD, or Blu-ray.
+
+The most common and stable way humans grasp such an object for manipulation (like inserting into a drive or putting it in a case) is by placing the **thumb through the central hole** and supporting the disc with **fingers (usually two or more) on the underside of the periphery**. This avoids touching the data surface and provides a secure hold.
+
+In Feix's taxonomy, this specific grasp is often classified under a category for handling objects with holes or as a specific type of **Disk Grasp**. It leverages both the flat shape and the presence of the central hole.
+
+Therefore, the best grasp for this object according to Feix's taxonomy is typically referred to as a **Disk Grasp** or described as **grasping with the thumb in the central hole and fingers supporting the edge**. This type of grasp is often categorized as an **Intermediate** or **Precision** grasp depending on the context of manipulation, as it allows for control and careful handling, rather than a pure power grip."
+data/cd/cd14.jpg,"['power disk', 'precision disk']",,"Based on Feix's grasp taxonomy and considering how people typically handle a CD delicately while avoiding the data surface, especially for tasks like insertion, the grasp using the center hole is a common and effective method.
+
+Examining the specific grasp types listed in Feix's taxonomy:
+-   The ""Ring grasp"" is described as ""The object is held by inserting fingers through the hole and opposing them with the thumb on the outside (e.g. a ring, a donut).""
+A CD is a thin, flat disc with a central hole, essentially functioning as a large, thin ring in terms of how it's held using the hole. The common ""CD grasp"" involves putting a finger (usually index or middle) through the hole and opposing it with the thumb on the edge or underside. This aligns well with the description of the ""Ring grasp"".
+
+This grasp allows for precise manipulation and carrying, fitting within the general category of precision tasks, although ""Ring grasp"" is a specific named grasp within the taxonomy rather than a top-level category.
+
+Therefore, the best grasp for a CD based on Feix's taxonomy, particularly considering the common method utilizing the central hole (hinted at by the crops), is the **Ring grasp**.
+
+The final answer is $\boxed{Ring grasp}$."
+data/cd/cd15.jpg,"['power disk', 'precision disk']",,"Based on Feix's GRASP taxonomy, the best grasp for a CD/DVD, especially for typical handling like inserting it into a drive, is a form of **Precision Grasp**.
+
+More specifically, the common and most stable way to hold a CD is by putting a finger (usually the index or middle finger) through the center hole and supporting the edge of the disc with the thumb and possibly other fingers.
+
+This fits the description of a **Precision Pinch**.
+*   **Type:** Precision (used for manipulation and fine control, not force)
+*   **Thumb Position:** Opposed (the thumb opposes the finger in the hole or the grip formed by the finger(s) on the edge)
+*   **Virtual Finger:** Typically involves the thumb and at least one other finger (the one in the hole, plus maybe others on the edge).
+
+While not a named grasp *type* like ""Cylindrical"" or ""Sphere,"" the standard method of holding a disc using the center hole and an opposing thumb/finger on the edge is considered a **Precision Pinch** because it allows for controlled manipulation of the object."
+data/cd/cd6.jpg,"['power disk', 'precision disk']",palmar pinch,"Based on Feix's grasp taxonomy, the most typical and stable grasp for handling a compact disc (CD) is a type of **Precision Grasp**.
+
+Specifically, the common way to hold a CD (thumb in the center hole, one or more fingers on the outer edge) aligns with the characteristics of a **Palmar Pinch** (often 2-finger or 3-finger).
+
+Here's why:
+*   **Precision vs. Power:** The goal is usually precise manipulation (inserting into a player, removing it) and avoiding touching the data surface, not applying force. This points to a precision grasp.
+*   **Contact Points:** The grasp involves contact between the pad of the thumb (on the rim of the central hole) and the pads of opposing fingers (typically 1-3 fingers) on the outer edge.
+*   **Palmar Pinch:** Feix defines Palmar Pinches as grasps using the pads of the thumb and one or more opposing fingers. This perfectly describes the standard way to hold a CD. It could be a 2-Finger Palmar Pinch (thumb + index) or a 3-Finger Palmar Pinch (thumb + index + middle).
+
+Therefore, the best grasp for this object based on Feix's taxonomy is a **Palmar Pinch**."
+data/cd/cd11.jpg,"['power disk', 'precision disk']",lateral,"Based on Feix's GRASP taxonomy and considering the typical and safest way to handle a CD/DVD to avoid damaging the data surface, the best grasp is one that utilizes the center hole for support while optionally providing stability on the outer edge.
+
+This type of grasp involves inserting a finger (typically the index or middle finger) through the center hole of the disc and supporting the edge with the thumb and/or other fingers. The primary function is to **support** the disc's weight and allow it to be moved or placed without touching the sensitive data area.
+
+Within Feix's taxonomy:
+
+1.  It is **not a Power Grasp:** Power grasps are designed for applying force or securely holding heavy objects (e.g., Cylinder, Sphere, Hook, Plate/Lateral Power). A CD is light and doesn't require force.
+2.  It is **not a typical Precision Grasp:** Precision grasps are for fine manipulation of small objects using fingertips (e.g., Tip, Palmar/Tripod, Lateral/Key Pinch). While the outer edge might be held with fingertips/thumb, the primary support comes from the finger in the hole, and the manipulation isn't ""fine manipulation"" of the disc itself but rather positioning it.
+3.  It best fits into the category of a **Support Grasp** or an **Intermediate Grasp**. While ""Support Grasp"" isn't always listed as a primary prehensile category in some simplified versions of taxonomies, Feix's paper discusses functional categories like support. This grasp uses the hand to support the object's weight and structure, taking advantage of the object's specific geometry (the hole).
+
+Therefore, the best grasp for a CD/DVD, according to the function and common handling method, is best described as a **Support Grasp** or an **Intermediate Grasp** that leverages the center hole and outer edge for stable, non-damaging handling."
+data/cd/cd12.jpeg,"['power disk', 'precision disk']",tripod,"Based on Feix's GRASP taxonomy, the ""best"" grasp for a CD/DVD depends on the specific task being performed, as the taxonomy classifies grasps by function and form. However, considering the common ways humans interact with a single CD for its primary purpose (handling, inserting, removing), two main types come to mind that fit within Feix's classification:
+
+1.  **Precision Grasp - Pinch Grasp (2- or 3-Finger Pinch) on the Edge:**
+    *   **Description:** This is perhaps the most common and recommended way to handle a CD. The disk is held by its outer edge using the thumb and one or two fingers (typically index or index and middle finger). The contact is made on the non-data side of the edge.
+    *   **Why it fits:** This is a *Precision Grasp* because it involves using the fingertips or pads for fine manipulation (guiding into a drive, picking up without touching the surface). It's a specific type of *Pinch Grasp* as the object is held between the thumb and opposing fingers without significant palm involvement for stability or power. It allows for controlled movement and avoids touching the data surface, which is crucial for this object.
+
+2.  **Precision Grasp - Variant using the Center Hole (Often combined with Edge/Underside Support):**
+    *   **Description:** The index finger is placed through the center hole, and the disk is supported or stabilized with the thumb and/or other fingers on the outer edge or underside.
+    *   **Why it fits (conceptually):** While Feix's taxonomy primarily focuses on how the *outer shape* of an object is gripped, this method is highly characteristic of handling a CD, especially when placing it on a spindle drive or lifting it from a flat surface without sliding. It's a form of *precision manipulation* leveraging a specific feature of the object. The overall goal is precision placement and avoiding the data surface, aligning with the *Precision Grasp* category's purpose, even if it's a specific object-dependent variation not explicitly named as a standard pinch or tripod. The support on the edge or underside often still involves a pinch-like action or finger pad contact for control.
+
+Other grasps might be used for different tasks (e.g., a **Plate Grasp** - a type of Power Grasp - could be used to carry a stack of CDs, supporting them from underneath with an open hand), but for handling a *single* CD as depicted for typical use, the **Precision Pinch on the Edge** and the **Center Hole supported Precision Grasp** are the most appropriate and frequently observed grasps aligning with Feix's classification principles.
+
+The most ""best"" or typical *protective* grasp for a single CD is the **Precision Pinch Grasp on the Edge**, as it directly supports the object while keeping potentially damaging contact away from the data surface."
+data/cd/cd13.jpeg,"['power disk', 'precision disk']",,"Based on Feix's GRASP taxonomy (Feix et al., 2009), the most appropriate and common grasp for a CD or DVD is a type of **Precision Grasp**.
+
+Specifically, it's a grasp for **flat objects (discs) with a central hole**. The typical and most functional way to hold a CD/DVD involves:
+
+1.  Placing the **thumb through the central hole**.
+2.  Supporting the disc from the opposite side (often the edge or the underside near the edge) with one or more **fingers** (usually index and middle fingers).
+
+This grip is classified as a Precision Grasp because it allows for careful manipulation (like inserting into a drive or preventing scratches) and doesn't rely on power or full hand wrap. It's a specialized grip adapted to the specific geometry and handling requirements of a disc with a hole."
+data/cd/cd7.jpg,"['power disk', 'precision disk']",tripod,"Based on Feix's grasp taxonomy, the object (a CD) is a flat, thin disk that is relatively light and requires careful handling to avoid damaging the surface. Therefore, the appropriate grasp type would fall under the category of **Precision Grasps**, rather than Power Grasps.
+
+Within the Precision Grasps, the most suitable methods for handling a CD typically involve:
+
+1.  **Holding the edge:** This usually involves using the pads of the thumb and one or more fingers (index, middle) on opposite sides of the edge of the disk. This fits well with the description of a **Pad Pinch** or potentially a variant of a **Prismatic** grasp if holding with multiple fingers on one side, but **Pad Pinch** is a strong candidate for holding the thin edge between thumb and finger pads.
+2.  **Using the center hole:** A common method is to place a finger (like the index or middle finger) through the center hole and stabilize the disk with the thumb and/or other fingers on the edge. While not a primary named category like ""Tripod"" or ""Pinch"" in the simplified Feix list, this is a highly functional **Precision Grasp** specifically adapted for this object's geometry, allowing excellent control and avoiding surface contact. It could be considered a specialized type of precision manipulation grasp.
+
+Considering the need for control, stability, and avoiding surface contact, both methods are suitable precision grasps. However, the act of holding the *edge* between the thumb and finger pads is a direct mapping to a defined type in Feix's taxonomy:
+
+The best grasp based on Feix's taxonomy for carefully handling a CD by its edge is a **Pad Pinch**, which is a type of **Precision Grasp**. While the ""finger through hole"" method is also a common precision technique for this object, the edge-holding method corresponds more directly to the explicitly named ""Pad Pinch"" type in the taxonomy for holding flat, thin objects by their edges with control."
+data/cd/cd1.jpg,"['power disk', 'precision disk']",lateral,"Based on Feix's grasp taxonomy, the best grasp for a DVD is the **Disk grasp**.
+
+Here's why:
+
+1.  **Object Shape:** A DVD is a thin, flat, circular object with a central hole.
+2.  **Grasp Definition:** The Disk grasp, as defined in the taxonomy, involves inserting the thumb into the central hole of the disk and supporting the outer edge/underside with the fingers.
+3.  **Functionality:** This grasp provides stable control of the disk while keeping the sensitive data surface free from contact, which is crucial for handling optical media like DVDs. It also facilitates tasks like inserting the disk into a drive or placing it in a case.
+
+While other grasps (like a Lateral grasp if picking it up from a flat surface) might be used momentarily, the Disk grasp is the most characteristic, stable, and functionally appropriate way to hold a DVD for general handling and usage."
+data/cd/cd21.jpeg,"['power disk', 'precision disk']",,"Based on Feix's GRASP taxonomy (The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems), the object shown, an optical disc (CD/DVD), is typically handled using a **Precision Grasp**.
+
+Here's why:
+
+1.  **Object Characteristics:** It's a thin, flat disc.
+2.  **Typical Interaction:** When handling a CD/DVD for its primary purpose (insertion, removal, transport), you typically grasp it by the edges, often using the thumb opposed by one or two fingers (index, and sometimes middle). This is done to avoid touching the data surface.
+3.  **Grasp Function:** This type of grasp prioritizes control and precision for positioning the disc, rather than applying significant force or holding it securely against the palm.
+4.  **Feix Taxonomy Mapping:** This method of using fingertips (specifically, pad or tip opposition between the thumb and opposing fingers) on a narrow part of the object (the edge) for precise manipulation falls under the definition of a **Precision Grasp** in Feix's taxonomy. More specifically, it's a type of **Pinch** (often a 2-finger or 3-finger pinch using pad opposition).
+
+Therefore, the most common and appropriate grasp for this object, according to Feix's taxonomy for its typical use, is a **Precision Grasp**, specifically a **Pinch** applied to the disc's edge."
+data/plate/plate13.jpeg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for this paper plate is the **Parallel Extension Grasp** (also known as Platform Grasp).
+
+This grasp involves supporting the flat object from underneath with the fingers extended, which is the most common and stable way to hold or carry a plate, especially when it contains food."
+data/plate/plate27.jpg,"['extension type', 'palmar']",power disk,"Based on Feix's grasp taxonomy, the best grasp for holding or carrying a dinner plate like the one pictured is likely the **Power Disk** grasp.
+
+Here's why:
+
+1.  **Object Characteristics:** The object is flat, rigid, and disk-shaped.
+2.  **Typical Use:** Dinner plates are typically held or carried horizontally, requiring stable support.
+3.  **Power Disk Grasp:** This grasp is defined as holding a disk-shaped object within the palm, with fingers and thumb in opposition and wrapped around the object's edge/rim. This matches the common and stable way people hold a dinner plate, providing support from underneath with the palm while securing the edge with fingers and thumb.
+
+While the **Palmar** grasp (supporting the object on the palm with fingers wrapped around) is also possible, the **Power Disk** grasp is more specific to the shape of the object and includes the typical engagement of fingers and thumb around the edge for better control and stability."
+data/plate/plate14.jpeg,"['extension type', 'palmar']",lateral,"Based on Feix's GRASP taxonomy (Feix et al., 2015, The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems), the most appropriate and common grasp for an oval plate like the one shown, when holding or carrying it in a typical horizontal orientation, would fall under the category often referred to as a **Plate Grasp** or **Tray Grasp**.
+
+This grasp is characterized by:
+
+*   **Intention:** Primarily for supporting and transporting a flat object.
+*   **Configuration:** The hand(s) are typically positioned with the palm supporting the underside of the plate, and the fingers (and sometimes the thumb) curled around the edge to secure it and prevent it from slipping or tipping.
+
+While Feix's taxonomy is extensive and includes detailed sub-classifications, the action of holding a flat object like a plate horizontally with support from underneath and securing the edge is a distinct and recognized grasp type for this specific object form factor and handling task. It's categorized under the functional purpose of stabilization and transport of a flat object.
+
+Therefore, the ""best"" grasp, in the sense of the most typical and effective way to hold and transport the plate shown, is the **Plate Grasp**. Other grasps might be used for specific actions (e.g., a lateral grasp to lift it vertically from a rack), but the Plate Grasp is the primary one for its core function."
+data/plate/plate26.jpg,"['extension type', 'palmar']",lateral,"Based on Feix's grasp taxonomy, the most appropriate grasp for holding or carrying a plate in a stable manner, especially when it contains food, is the **Platform Grasp** (sometimes referred to as a Cradle Grasp or supporting grasp).
+
+This grasp involves supporting the object from underneath using the palm and fingers, providing a stable base for the flat surface of the plate.
+
+While other grasps like the Lateral Grasp or Pinch Grasp could be used to pick the plate up by the edge (e.g., from a stack), the Platform Grasp is the primary method for holding and stabilizing a plate during use."
+data/plate/plate6.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for a paper plate, especially when considering its typical use (carrying food), is a **Non-prehensile Support** grasp.
+
+Here's why:
+
+*   **Non-prehensile:** The primary interaction is not about gripping or enclosing the object with the hand.
+*   **Support:** The hand and fingers are used to support the flat surface of the plate from underneath, holding it against gravity and keeping it stable. You might also use your thumb on the rim for added stability, but the core action is support rather than a power or precision grip on the object itself.
+
+Other grasp types from the taxonomy (Power, Precision, Intermediate) are generally not suitable for the primary function and form factor of a paper plate. Power grasps are for firmly gripping objects, precision grasps for manipulating small items, and intermediate grasps are variations that don't typically apply to supporting a flat, lightweight object like a plate."
+data/plate/plate17.jpeg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy of human grasp types, the best grasp for a plate is the **Plate Grasp**.
+
+This specific grasp type is included in the Feix taxonomy and is described as:
+
+**Plate Grasp:** The object is held between the pulp of the adducted thumb and the pulps/sides of the fingers. The object is usually a flat object held by its edge.
+
+This accurately describes the common way humans hold a plate for lifting or carrying, with fingers supporting from underneath the rim and the thumb pressing down on the top of the rim for stabilization."
+data/plate/plate3.jpg,"['extension type', 'palmar']",power disk,"Based on Feix's grasp taxonomy, the best grasp for a dinner plate like this, which is typically handled for carrying or serving, would fall under the **Power Grasps** category.
+
+Specifically, holding a plate involves either supporting the bottom surface with the palm and fingers or gripping the rim with the thumb on top and fingers underneath. Both of these actions align with the characteristics of **Power Disk** or **Power Sphere** grasps, which are used for gripping or supporting flat or slightly curved objects.
+
+Considering the flat nature of a plate, **Power Disk** is a very suitable classification, as it describes grasping a disk-like object or supporting a flat surface.
+
+The best grasp is a **Power Grasp**, likely a **Power Disk**."
+data/plate/plate23.jpeg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy, the ""best"" grasp for a paper plate depends on the specific action being performed (lifting, carrying, passing, etc.). However, considering the image shows the plate lying flat, the most likely *initial* interaction is **lifting** it from the surface.
+
+For lifting a flat, relatively light object like a paper plate from a surface, the most appropriate grasp from Feix's taxonomy is likely the **Friction Lift**, which is a sub-type of the **Lifting** category.
+
+*   **Friction Lift:** In this grasp, you slide fingers (and potentially the palm) underneath the flat object and use friction between the hand and the object's surface to lift it. This fits perfectly for how one would typically pick up a paper plate lying flat on a table.
+
+Once the plate is lifted and held, especially if it contains food, the grasp might transition into a different type, often involving **Support** where the hand is placed flat underneath the plate to cradle it, which Feix's taxonomy would likely classify under **Non-Prehensile Interactions** or **Support grasps**, as the object is resting *on* the hand rather than firmly grasped *by* it.
+
+However, for the action of *initial contact and lifting* from the state shown in the image, **Friction Lift** is the most fitting description from Feix's taxonomy."
+data/plate/plate24.jpg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy, the best grasp for this object (a plate lying flat on a surface) for the purpose of picking it up or moving it from the top is likely a **Parallel Extension Grasp**.
+
+Here's why:
+
+1.  **Object Properties:** The plate is a flat, rigid object.
+2.  **Action:** When picking up a plate lying flat, you typically extend your fingers and thumb relatively parallel to each other across the surface of the plate to lift it. The palm may or may not be in full contact depending on the specific hand/plate size, but the fingers and thumb provide the primary opposing forces for the lift.
+3.  **Taxonomy Fit:** Feix's definition of the Parallel Extension grasp includes using extended fingers and thumb opposing each other across a flat object, with the palm potentially in contact. Examples often include grasping books, trays, or tablets, which are similar in form factor to a plate in this context.
+
+While other grasps might be used in different scenarios (e.g., a power grasp if picking it up from the side edge if it were standing up, or a precision grasp for a tiny decorative plate), the image shows the plate lying flat, making the Parallel Extension grasp the most suitable and typical method for handling it."
+data/plate/plate25.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for a plate like the one shown, typically used for holding or serving, is a **Support grasp**.
+
+More specifically, within the Support category, the most appropriate type is:
+
+**S9: Plate/Dish** - This grasp is defined as supporting a plate or dish from below, often with fingers wrapped around the edge and the thumb on top for stability.
+
+This classification aligns with how one naturally holds and carries a plate."
+data/plate/plate21.jpeg,"['extension type', 'palmar']",lateral,"Based on Feix's GRASP taxonomy (The GRASP taxonomy of human grasp types), the most likely and ""best"" grasp for a paper plate, especially for holding or carrying it, would be a **Disk grasp**.
+
+Here's why:
+
+1.  **Object Characteristics:** A paper plate is flat, circular (disk-shaped), and typically needs to be supported horizontally.
+2.  **Purpose:** The primary purposes are to hold food, be carried, or be placed on a surface. Stability is important, especially when carrying food.
+3.  **Grasp Type:** The Disk grasp (categorized under Intermediate Grasps in some versions, or specifically detailed) is defined for handling flat, circular objects like plates or CDs. It typically involves supporting the object from underneath with the fingers and palm, often with the thumb placed on the edge or top for stability. This creates a stable platform for the object.
+
+While other grasps *could* be used for specific tasks (e.g., a pinch to lift one plate off a stack, or a lateral grasp if carrying it vertically like a frisbee), the **Disk grasp** is the most common and suitable for the general purpose of holding and supporting a paper plate as intended for use (i.e., with food on it)."
+data/plate/plate10.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for a plate like this is typically a **Plate Grasp**.
+
+This category specifically describes grasps used for flat objects like plates, which can involve supporting the plate from underneath with the palm and fingers, or gripping the edge with the fingers and thumb depending on the situation (e.g., carrying, lifting from a table)."
+data/plate/plate7.jpg,"['extension type', 'palmar']",palmar,"Based on Feix's grasp taxonomy, the best grasp for a flat object like a plate, typically held for support or carrying, is the **Power Palmar** grasp.
+
+This grasp involves supporting the object primarily with the palm and fingers curled to some extent around the edges or underneath, providing stability for a flat surface. In Feix's original paper, this corresponds to the **P1 (Power Palmar)** grasp type."
+data/plate/plate4.jpg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy, the best grasp for holding a paper plate containing food would typically fall under the **Intermediate Grasps** category.
+
+Specifically, it would be classified as a **Disk Grasp**.
+
+This grasp involves supporting the flat, circular object (the plate) from underneath, primarily using the palm and fingers. The fingers may curl slightly around the rim for added stability, but the main support comes from the broad contact area with the hand. This allows for carrying the plate and its contents levelly and stably, which is the primary function when using a paper plate."
+data/plate/plate16.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for a plate like the one shown, when lifting it from a flat surface, would typically be a **Sheet Grasp** or **Disc Grasp**.
+
+This grasp type is used for thin, flat objects where the fingers grip the edge from underneath (or around the edge) and the thumb may provide opposition on the top surface or edge. This aligns with how a person would naturally pick up a plate placed on a table."
+data/plate/plate11.JPG,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy (Feix et al., 2015), the best grasp for a plate like the one shown is the **Plate Grasp** or **Dish Grasp**.
+
+This is a specific type of prehension (grasp) defined in the taxonomy for handling flat, disc-like objects. It typically involves:
+
+1.  Supporting the underside or edge of the plate with the fingers.
+2.  Applying pressure to the top surface or rim with the thumb to stabilize it.
+
+This grasp allows for carrying and manipulating the plate securely in a horizontal or slightly tilted orientation, which is typical for its use."
+data/plate/plate8.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for a plate is the **Disk Grasp**.
+
+This grasp is characterized by all fingers being flexed in contact with the underside edge of the disk-shaped object (the plate), with the thumb adducted to oppose the fingers on the top surface of the edge."
+data/plate/plate22.jpg,"['extension type', 'palmar']",lateral,"Based on Feix's grasp taxonomy, the best grasp for a dinner plate like this is typically the **Disk Grasp**.
+
+Here's why:
+
+1.  **Object Type:** A plate is a flat, relatively large, rigid disk-shaped object.
+2.  **Typical Use:** Plates are usually held by supporting them from underneath with fingers and palm, or by gripping the edge with fingers below and thumb above, primarily for carrying or holding them while eating.
+3.  **Feix's Taxonomy:** The Disk Grasp is a specific type of intermediate or power grasp designed for holding flat, round objects like plates or CDs. It involves supporting the object with the fingers and palm from one side, often with the thumb providing counter-pressure or stability on the other side or edge.
+
+While other grasps (like a form of Lateral Grasp gripping the edge) are possible, the **Disk Grasp** is the most stable and common method for supporting the weight and carrying a plate, especially when it contains food."
+data/plate/plate9.jpeg,"['extension type', 'palmar']",palmar,"Based on the Feix grasp taxonomy, the ""best"" grasp for a paper plate depends slightly on the specific task (e.g., just picking it up vs. carrying it with food). However, considering the common use of a paper plate (holding food, carrying it), the most relevant and stable grasp would be a variation of the **Tray grasp** or a **Palmar grasp for flat objects**.
+
+Here's why:
+
+1.  **Object Characteristics:** A paper plate is flat, thin, and often carries contents that require a stable, horizontal surface.
+2.  **Task:** The primary task is usually holding or carrying the plate, often with food, which prioritizes stability over precise manipulation.
+3.  **Grasp Description:**
+    *   **Tray Grasp:** This involves supporting the flat object from underneath with the fingers and palm, often with the thumb placed on the rim for added stability. This perfectly describes how one typically holds a paper plate to prevent spills.
+    *   **Palmar Grasp (for flat objects):** Some taxonomies might categorize this under a general palmar grasp modified for a flat object, where the palm and splayed fingers support the surface.
+
+While you *could* use a pinch grasp (like a lateral pinch) to simply pick up an empty plate from the edge, the most common and functionally relevant grasp for a paper plate, especially when in use, is the supporting grasp from underneath.
+
+Therefore, the most appropriate answer from the Feix taxonomy is the **Tray grasp** or a supporting **Palmar grasp for a flat object**."
+data/plate/plate1.jpg,"['extension type', 'palmar']",lateral,"Based on Feix's GRASP taxonomy, the best grasp for this object (a plate) would typically be a **Platform grasp**.
+
+Here's why:
+
+1.  **Object Characteristics:** A plate is a relatively flat, stable object often held or carried from underneath.
+2.  **Typical Interaction:** When carrying a plate, especially with food on it, the most common and stable method is to support it from underneath with the hand(s), using the hand as a platform.
+3.  **Taxonomy Fit:** The Platform grasp in Feix's taxonomy is defined as the object resting on the palm and/or fingers, with the hand(s) acting as a supportive surface. This perfectly describes how a plate is often held and carried.
+
+While other grasps like a fingertip lift or a lateral grasp might be used for picking it up initially or handling it when stacked, the Platform grasp is the most appropriate classification for holding and carrying a single plate, which is a primary interaction method."
+data/plate/plate12.jpeg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy, the object is a flat, circular plate. The typical tasks for grasping a plate are support, carrying, or placing it down. These tasks prioritize stability and support over fine manipulation.
+
+Considering the shape and typical tasks:
+
+1.  **Power Grasps:** Used for stability and applying force.
+    *   **Disk Grasp:** This is the most appropriate category. A disk grasp is used for flat or slightly curved objects, where the fingers and thumb conform to the shape, often grasping the edges or supporting the underside. This perfectly describes how one typically holds a plate (e.g., supporting it from underneath with the palm and fingers spread, or gripping the edges with fingers underneath and thumb on top).
+
+2.  **Precision Grasps:** Used for manipulation and control with fingertips. These are not suitable for stably supporting or carrying a plate.
+
+Therefore, according to Feix's GRASP taxonomy, the best grasp for a plate is likely the **Disk Grasp**, which falls under the **Power Grasp** category. This grasp provides the necessary stability and support for handling a flat, circular object like a plate."
+data/plate/plate32.jpg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy and the object being a flat, oval plate, the best grasp type is an **Intermediate Grasp (G3)**, specifically the **Plate/Sheet grasp**.
+
+This grasp is characterized by holding a flat object (like a plate or sheet of paper) with fingers supporting it from underneath or gripping the edge, often with the thumb on top or gripping the opposite edge. This aligns perfectly with how one would typically pick up or carry a plate."
+data/plate/plate31.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy and the object being a plate, the best grasp is the **Plate Grasp**.
+
+This grasp is specifically defined in the taxonomy for handling flat, disc-shaped objects like plates. It typically involves the fingers supporting the underside of the plate while the thumb presses down on the top surface or rim for stability when lifting and carrying."
+data/plate/plate2.jpeg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for a paper plate is the **Plate Grasp**.
+
+This grasp is a specific type within the taxonomy designed for supporting flat objects like plates. It involves the hand being held flat or slightly cupped, providing support from underneath with the palm and fingers. While other grasps like a pinch might be used to pick up an empty plate, the Plate Grasp is the functional and most common way to hold a paper plate, especially when it contains food, providing necessary support. It can be considered a type of **Power Grasp** focused on support rather than manipulation."
+data/plate/plate29.jpg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy, the most appropriate grasp for this object (a plate) is the **Plate grasp**.
+
+This is an **Intermediate Grasp**. It involves holding a flat object like a plate, typically either supporting it from underneath with the palm and fingers, or gripping the edge with fingers below and the thumb on top of the rim. This grasp is specifically defined in the taxonomy for handling objects of this shape and function."
+data/plate/plate30.jpeg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for holding a plate like the one shown in the image, particularly for carrying or supporting it, is typically the **Platform grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object is flat and relatively large.
+2.  **Task:** The common tasks involving grasping a plate are carrying, supporting, or holding it steady.
+3.  **Feix's Taxonomy:** Feix et al. classify grasps based on hand posture and contact points. The ""Platform grasp"" (also sometimes referred to as a ""Tabletop grasp"" or a type of ""support grasp"") is specifically described for holding objects from underneath, resting on the palm and/or fingers. In this grasp, the hand acts as a stable base, and there is minimal opposition between the thumb and fingers required specifically to hold the object against gravity (though fingers may curl slightly around the edge for stability).
+
+While other grasps might be used in specific situations (like a side grasp with thumb on the rim and fingers underneath, which could be a variation), the Platform grasp is a fundamental way to support a flat object like a plate from below, aligning well with Feix's definition of using the hand as a support surface."
+data/plate/plate19.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for the object shown, a plate, is the **Plate grasp**.
+
+This grasp falls under the category of ""Special Prehensions"" in Feix's taxonomy and involves supporting the flat object (the plate) from underneath with the palm and fingers."
+data/plate/plate5.jpg,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for this object (a paper plate) when being used to hold food is the **Support** grasp.
+
+The Support grasp is used when the primary function is to bear the weight of the object, typically from underneath, using the fingers and palm or a combination thereof, often with a large contact area. This aligns perfectly with how one holds a plate to prevent its contents from falling."
+data/plate/plate15.jpeg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy, the most suitable grasps for handling a plate like the one shown (a flat, rigid, disk-like object) typically fall under the **Power Grasps** category, specifically:
+
+1.  **Disk Grasp:** This grasp is specifically defined for holding flat objects like plates, disks, or trays. It involves supporting the object from underneath with the palm and/or fingers, often with the fingers curled around the edge for stability. This provides a secure hold suitable for carrying weight.
+
+2.  **Lifting Grasp:** While more general, this describes the action of lifting an object by supporting its weight, usually from underneath. For a plate, this is often achieved using the hand flat underneath or with fingers curled around the edge, which aligns closely with the Disk grasp.
+
+The ""best"" grasp depends slightly on the task (e.g., simply picking up an empty plate vs. carrying a full one) and the specific hand configuration used, but the primary stable and load-bearing way to hold a plate aligns with the principles of the **Disk grasp** or a **Lifting grasp** as defined in Feix's taxonomy. These are classified as Power grasps because the focus is on securely supporting the object's weight."
+data/plate/plate18.jpeg,"['extension type', 'palmar']",palmar,"Based on Feix's GRASP taxonomy, the best grasp for a plate, especially when carrying it with food, is typically a type of **Palmar Support** or specifically categorized as a **Plate Grasp** or **Dish Grasp** subtype.
+
+Here's why:
+
+1.  **Object Properties:** A plate is a relatively flat, rigid object. The primary function is to hold and transport food.
+2.  **Task:** The most common task is carrying the plate, which requires stable support for the object and its contents.
+3.  **Grasp Type (Feix Taxonomy):**
+    *   **Palmar Support:** This involves the palm supporting the bulk of the object's weight from underneath, often with fingers wrapped around the edges (the rim of the plate) for stability. This provides a broad base of support necessary for flat, potentially heavy items.
+    *   **Plate Grasp / Dish Grasp:** These are specific subtypes within the taxonomy designed for objects like plates or trays. They are essentially variations of palmar support tailored to the specific shape, where the hand is positioned underneath, supporting the flat surface, and fingers curl around the rim.
+
+While you might lift an empty plate using a **Lateral Pinch** variant (grasping the edge with thumb and fingers), the **Palmar Support / Plate Grasp** is the most secure and functional grasp according to Feix's taxonomy for the primary use case of carrying a plate, particularly one loaded with food."
+data/plate/plate28.png,"['extension type', 'palmar']",,"Based on Feix's grasp taxonomy, the best grasp for a paper plate is typically a **Plate grasp**.
+
+This grasp involves supporting the flat surface of the plate on the palm and extended fingers, with the thumb often positioned on the rim to help stabilize the object. It is specifically designed for carrying or balancing flat, lightweight objects like plates."
+data/plate/plate20.jpeg,"['extension type', 'palmar']",,"Based on Feix's GRASP taxonomy, the ""best"" grasp for the plate depends on the intended action. However, the most common and stable grasp for carrying a single plate like this involves supporting its weight from underneath.
+
+A common and effective grasp for carrying a plate is:
+
+1.  **Fingers:** Extended or slightly curved, placed underneath the plate to support its bottom surface (often along the radius or towards the center). This aligns with a **Supportive Grasp** or using **Parallel Extension** of the fingers underneath the object.
+2.  **Thumb:** Placed on the top surface, usually on the rim, providing opposition and stabilization.
+
+Within Feix's taxonomy, this type of interaction, where the hand supports a flat object from below with fingers while the thumb provides stability from above, is classified under **Supportive Grasps** or specific subcategories for flat objects like **Disc Grasps** or **Plate Grasps**, emphasizing the function of support and stabilization of a flat object.
+
+It's not a typical power grasp (like cylindrical or spherical) or a simple precision grasp (like tip pinch). It's a specialized supportive grasp for a flat, often weighted, object.
+
+Therefore, a suitable description based on Feix's taxonomy would be a **Supportive Grasp** for a flat object, characterized by fingers providing support underneath (often in parallel extension) and the thumb providing stabilization and opposition on the top surface/rim."
+data/golf/golf7.jpeg,"['tripod', 'inferior pincer', 'quadpod']",tripod,"Based on Feix's GRASP taxonomy (The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems), the object shown (a golf ball) is a small, spherical object.
+
+For picking up, holding, or placing such a small spherical object where fine manipulation or precise placement is often involved, a common and effective grasp according to Feix's taxonomy would be a **Precision Grasp**.
+
+More specifically, within Precision Grasps, a suitable type is the **Tripod Grasp** (also sometimes called Tridigital Pinch). This involves holding the object with the pads of the thumb, index finger, and middle finger, providing stability and control for small objects.
+
+While other grasps are possible (like a full palmar grasp if just enclosing it, or a simple two-finger pinch), the Tripod grasp is highly typical and well-suited for securely handling a golf ball for tasks like picking it up off the grass or placing it on a tee."
+data/golf/golf23.jpg,"['tripod', 'inferior pincer', 'quadpod']",palmar pinch,"Based on Feix's grasp taxonomy, the best grasp for a golf ball, given its size and the typical ways it's handled (picking up, placing, holding for putting), would be a **Precision Grasp**. More specifically, it would likely fall under one of these subtypes:
+
+1.  **Palmar Pinch (3 fingers)** (P3.1) or **Palmar Pinch (4 fingers)** (P3.2): The thumb pad opposes the pads of the index and middle fingers (or more), providing good control over the small, spherical object.
+2.  **Tripod** (P4.1) or **Quadpod** (P4.2): The thumb opposes the fingertips of the index and middle fingers (Tripod) or more (Quadpod). This is also very common for manipulating small spheres with precision.
+
+Both Palmar Pinch and Tripod/Quadpod are very similar for an object like a golf ball, focusing on fingertip/pad opposition for control rather than using the full palm for power. **Palmar Pinch** or **Tripod** are the most likely specific types.
+
+Choosing one ""best"" grasp depends on the specific action, but a **Palmar Pinch (3 fingers)** or **Tripod** are highly representative. Let's go with **Palmar Pinch** as it describes the pad-to-pad opposition well."
+data/golf/golf1.jpg,"['tripod', 'inferior pincer', 'quadpod']",palmar,"Based on Feix's GRASP taxonomy, considering the typical actions involving a golf ball (picking it up, placing it on a tee, holding it):
+
+1.  **Object Characteristics:** A golf ball is a small, hard, spherical object.
+2.  **Task Consideration:** Handling a golf ball often involves picking it up from a surface (ground or tee), holding it, or placing it precisely.
+3.  **Feix's Taxonomy:** Divides grasps into Power and Precision.
+
+    *   **Power Grasps:** Aim for force and stability. Spherical grasp involves enclosing a sphere with the hand. While possible to hold a golf ball this way, it's generally too small for a full power spherical grasp, and this grasp isn't typically used for precise placement.
+    *   **Precision Grasps:** Aim for manipulation and control.
+        *   **Tip Grasp:** Involves holding the object between the tips of the thumb and one or more fingers (typically index and middle). This is commonly used for picking up small objects.
+        *   **Palmar Grasp (Pinch Grasp):** Involves holding the object between the pad of the thumb and the pads of one or more fingers (typically index and middle, often called a 3-finger pinch or tripod grip). This provides more stability and control than a tip grasp for positioning or carrying.
+
+Given that handling a golf ball often requires precise placement (e.g., on a tee) and stable holding, the **Precision Palmar Grasp (Pinch)** is arguably the best fit from Feix's taxonomy. Specifically, a 3-finger pinch (thumb pad against the pads of the index and middle fingers) is a very common and effective way to hold and manipulate a golf ball. The Precision Tip grasp is also a valid alternative for picking it up quickly.
+
+However, for stable control and positioning, the **Precision Palmar (Pinch)** is generally preferred."
+data/golf/golf5.jpg,"['tripod', 'inferior pincer', 'quadpod']",palmar pinch,"Based on Feix's grasp taxonomy, there isn't a single ""best"" grasp without a specific task defined. However, considering common interactions with a golf ball (like picking it up, placing it on a tee, or simply holding it), the relevant grasp types from Feix's taxonomy would be:
+
+1.  **Precision Grasp (specifically a Pinch):** For tasks requiring dexterity and fine control, such as picking the ball up from the ground or placing it on a tee. This involves the opposition of the thumb and one or more fingers (e.g., Tip Pinch, Palmar Pinch, or Tripod Pinch). This is a very common way to interact with a small object like a golf ball.
+
+2.  **Power Grasp (specifically a Spherical Grasp):** For simply holding the ball securely in the palm. This involves the fingers and palm conforming to the spherical shape of the ball.
+
+Given the image shows the ball on the grass, tasks like picking it up or placing it are implied, making a **Precision Grasp (Pinch)** highly appropriate. A **Spherical Grasp** is also a valid way to hold it once acquired.
+
+Without a specific task, both are plausible. However, if we consider the initial interaction or manipulation tasks often associated with the ball's position on the ground, a **Pinch** is often the most functional ""best"" grasp for control and dexterity."
+data/golf/golf20.jpg,"['tripod', 'inferior pincer', 'quadpod']",,"Based on Feix's GRASP taxonomy, the best grasp for the object in the image (a small, light, spherical golf ball) is most likely a **Precision Grasp**, specifically a **Pad Grasp (Pad-to-Pad Grasp)**.
+
+Here's why:
+
+1.  **Object Properties:** The object is small, spherical, and relatively light.
+2.  **Task (Implied):** The most common task involving picking up such an object from a surface is handling, placing, or throwing it, requiring precision rather than brute force.
+3.  **Feix's Taxonomy:**
+    *   **Power Grasps** are typically used for larger, heavier objects where stability and force are needed (e.g., Cylindrical Power, Spherical Power). A golf ball doesn't require this.
+    *   **Precision Grasps** are used for manipulating small objects, where control is more important than force.
+    *   Among precision grasps, the **Pad Grasp** (often called a pincer grip) involves the pads of the fingers (typically index and thumb, or index, middle, and thumb) opposing each other. This is ideal for grasping a small, spherical object securely for manipulation or lifting.
+
+Therefore, the **Pad Grasp (Precision Grasp)** is the most appropriate classification according to Feix's taxonomy for handling a golf ball."
+data/golf/golf19.jpg,"['tripod', 'inferior pincer', 'quadpod']",power sphere,"Based on Feix's grasp taxonomy, the best grasp for a golf ball would be the **Sphere Grasp**.
+
+Here's why:
+
+1.  **Object Shape:** The object is spherical. Feix's taxonomy includes a specific category for handling spherical objects.
+2.  **Object Size:** A golf ball is a relatively small sphere (typically 42-43mm diameter). While it could potentially be held in other ways (like a multi-finger pinch), the ""Sphere Grasp"" is specifically designed for objects of this shape.
+3.  **Grasp Characteristics:** The Sphere Grasp typically involves the thumb opposing multiple fingers (index, middle, and often ring and pinky) which conform to the spherical shape of the object, allowing for stable holding and manipulation. This is how people commonly pick up and hold a golf ball.
+
+Power Sphere grasp is used for larger spheres (like a basketball), while simple pinches (Tip, Pad, Palmar/Tripod) are generally used for smaller objects or those requiring fine manipulation rather than just holding. The Sphere Grasp is the most appropriate general grasp for an object like a golf ball within this taxonomy."

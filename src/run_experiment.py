@@ -58,7 +58,7 @@ def run_experiment(experiment, model):
         new_df.to_csv(new_df_path, index=False)
         counter += 1
         print(f"Status: {counter}/{len(generate_img_path_list("data"))}; Accuracy: {correct}/{seen}")
-        time.sleep(5.01)
+        time.sleep(12.5)
     return correct / seen, correct, seen
         
 def generate_img_path_list(parent_dir):
@@ -88,6 +88,6 @@ def get_ground_truth(pths_list):
 
 
 if __name__ == "__main__":
-    run_experiment(GeminiExperiment(model="gemini-2.0-flash", prompt="What is the best grasp for this object based on Feix's grasp taxonomy from the paper: The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems?"), "gemini-2.0-flash")
+    run_experiment(GeminiExperiment(model="gemini-2.5-flash-preview-04-17", prompt="What is the best grasp for this object based on Feix's grasp taxonomy from the paper: The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems?"), "gemini-2.5-flash-preview-04-17")
 
     
