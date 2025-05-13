@@ -18,23 +18,13 @@ def run_experiment(experiment, model):
     for img_pth in generate_img_path_list("data"):
         if img_pth in new_df["img_path"].values:
             to_check_row = new_df[new_df["img_path"] == img_pth]
-            # print(to_check_row.iloc[0]["target_grasp"])
-            # print(type(to_check_row.iloc[0]["target_grasp"]))
-            # print(to_check_row.iloc[0]["pred_grasp"])
-            # print(type(to_check_row.iloc[0]["pred_grasp"]))
-            # print(True) if to_check_row.iloc[0]["pred_grasp"] in str(to_check_row.iloc[0]["target_grasp"]) else print(False)
-            # breakpoint()
-            if len(ast.literal_eval(to_check_row.iloc[0]["target_grasp"])) > 4:
-                target = []
-                target_str = ''.join(ast.literal_eval(to_check_row.iloc[0]["target_grasp"]))
-                target.append(target_str)
-                print(target)
-            else:
-                target = ast.literal_eval(to_check_row.iloc[0]["target_grasp"])
-            if to_check_row.iloc[0]["pred_grasp"] in target:
+            target_str = (''.join(ast.literal_eval(to_check_row.iloc[0]["target_grasp"]))).replace(" ", "")
+            print(target_str)
+            print(str(to_check_row.iloc[0]["pred_grasp"]))
+            if str(to_check_row.iloc[0]["pred_grasp"]).replace(" ", "") in target_str:
                 correct += 1
             seen += 1
-            # print("skipping!")
+            print("skipping!")
             counter += 1
             print(f"Status: {counter}/{len(generate_img_path_list("data"))}; Accuracy: {correct}/{seen}")
             continue
@@ -57,8 +47,12 @@ def run_experiment(experiment, model):
         )])
         new_df.to_csv(new_df_path, index=False)
         counter += 1
+        print(correct)
+        print(seen)
         print(f"Status: {counter}/{len(generate_img_path_list("data"))}; Accuracy: {correct}/{seen}")
         time.sleep(12.5)
+        print(correct)
+        print(seen)
     return correct / seen, correct, seen
         
 def generate_img_path_list(parent_dir):
@@ -88,6 +82,6 @@ def get_ground_truth(pths_list):
 
 
 if __name__ == "__main__":
-    run_experiment(GeminiExperiment(model="gemini-2.5-flash-preview-04-17", prompt="What is the best grasp for this object based on Feix's grasp taxonomy from the paper: The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems?"), "gemini-2.5-flash-preview-04-17")
+    run_experiment(GeminiExperiment(model="gemini-2.0-flash", prompt="What is the best grasp for this object based on Feix's grasp taxonomy from the paper: The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems?"), "gemini-2.0-flash")
 
     
