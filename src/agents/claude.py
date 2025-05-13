@@ -14,6 +14,7 @@ class ClaudeExperiment:
             mime_type, _ = mimetypes.guess_type(img_path)
         message = self.client.messages.create(
             model=self.model,
+            max_tokens=500,
             messages=[
             {
             "role": "user",
@@ -34,7 +35,7 @@ class ClaudeExperiment:
             }
         ],
         )
-        result = message.lower()
-        grasp = re.search(r"palmar pinch|power disk|precision disk|power sphere|precision sphere|sphere 3 finger|sphere 4 finger|tripod|inferior pincer|quadpod|lateral|extension type|palmar", result)
-        return message, grasp
+        # result = message.lower()
+        grasp = re.search(r"palmar pinch|power disk|precision disk|power sphere|precision sphere|sphere 3 finger|sphere 4 finger|tripod|inferior pincer|quadpod|lateral|extension type|palmar", message.content[0].text.lower())
+        return message.content[0].text.lower(), grasp
 

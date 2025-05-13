@@ -1,4 +1,5 @@
 from agents.gemini import *
+from agents.claude import *
 import pandas as pd
 import time
 import ast
@@ -50,7 +51,7 @@ def run_experiment(experiment, model):
         print(correct)
         print(seen)
         print(f"Status: {counter}/{len(generate_img_path_list("data"))}; Accuracy: {correct}/{seen}")
-        time.sleep(12.5)
+        time.sleep(2)
         print(correct)
         print(seen)
     return correct / seen, correct, seen
@@ -77,11 +78,7 @@ def get_ground_truth(pths_list):
         return "power sphere", "precision sphere", "sphere 3 finger", "sphere 4 finger"
     return None
     
-
-
-
-
 if __name__ == "__main__":
-    run_experiment(GeminiExperiment(model="gemini-2.0-flash", prompt="What is the best grasp for this object based on Feix's grasp taxonomy from the paper: The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems?"), "gemini-2.0-flash")
+    run_experiment(ClaudeExperiment(model="claude-3-haiku-20240307", prompt="Using the least amount of tokens, what is the best grasp for this object based on Feix's grasp taxonomy from the paper: The GRASP taxonomy of human grasp types. IEEE Transactions on Human-Machine Systems?"), "claude-3-haiku-20240307")
 
     
